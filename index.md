@@ -1,7 +1,7 @@
 <div style="height:30px;width:30px;"></div>
 
 
-![Null Island NaN K Run Logo](NINaNk.png)
+[![Null Island NaN K Run Logo](NINaNk.png)](https://www.appgeo.com)
 
 
 # Welcome
@@ -10,7 +10,7 @@ Welcome to the **Null Island NaN K Run**. This classic run features a scenic NaN
 
 Join in the fun by sharing a photo of your office or home workspace with your current Open Source Geospatial project, your location, and the hashtag **[#NINaNK](https://twitter.com/intent/tweet?button_hashtag=NINaNK&ref_src=twsrc%5Etfw)** on twitter. 
 
-Applied Geographics is thrilled to support this event. We want to promote the great people who make up the open source geospatial community around the world, even on Null Island. As members of this community we have benefited from the amazing open source projects and their contributors. The Null Island Run is a great way for us to give back by adding some fun to events everywhere.
+[Applied Geographics](https://www.appgeo.com) is thrilled to support this event. We want to promote the great people who make up the open source geospatial community around the world, even on Null Island. As members of this community we have benefited from the amazing open source projects and their contributors. The Null Island Run is a great way for us to give back by adding some fun to events everywhere.
 
 If you are attending the [FOSS4G Dar es Salaam 2018](https://2018.foss4g.org/) conference keep a look out for [@Guidos](https://twitter.com/guidos) to get your NaN K participation sticker.
 

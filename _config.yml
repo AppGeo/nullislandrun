@@ -1,14 +1,5 @@
 title: Null Island Run
 description: Run for the glory. Run for the fun. A run for everyone.
 show_downloads: false
-google_analytics:
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-25859181-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-25859181-4');
-</script>
+google_analytics: UA-25859181-4
 theme: jekyll-theme-dinky

@@ -24,13 +24,18 @@ There is a long and storied history to cartographic anomalies. In the past a map
 Technology today still faces these types of anomalies. When location data is missing coordinate information they fall onto the mysterious Null Island. It is said to be located near the intersection of the equator and the prime meridian with the coordinates of (0,0). To find out more please [visit the Null Island wiki page](https://en.wikipedia.org/wiki/Null_Island "Null Island Wiki Page").
 
 **How do you get to Null Island**  
-The reccomended route to Null Island is to go to Kings Cross in London, go through platform 9 and 3/4, take the train to Hogwarts, borrow a dragon and then fly it to Null Island. Just open a map and look for areas marked "here lie dragons".
+There are several ways, for those in the UK, the reccomended route to Null Island is to go to Kings Cross in London, go through platform 9 and 3/4, take the train to Hogwarts, borrow a dragon and then fly it to Null Island. Just open a map and look for areas marked "here lie dragons". For those in the US the recomended route is to use a magical button to travel to Null Island via The Neitherlands. 
+
+Other methods we can't recomend include
+- the New Crobuzon route via the Cacotopic Stain
+- looking in the back of wardrobes
+- the inexplicable door behind my refrigerator
 
 **What is NaN?**  
-NaN is a term to describe results that are Not a Number in the Javascript programming language. It is what happens when you try to add apples with integers. For more information please [visit the NaN wiki page](https://en.wikipedia.org/wiki/NaN "NaN Wiki Page").
+NaN is a term to describe results that are Not a Number in the Javascript programming language. It is what happens when you try to add  an integer to the anticipation of a new lover's embrace. For more information please [visit the NaN wiki page](https://en.wikipedia.org/wiki/NaN "NaN Wiki Page").
 
 **How many kilometers is a NaN K?**  
-NaN is Not a Number, so it could be apple kilometers in length or orange kilometers in length. We don’t really know, but if you figure it out let us know.
+NaN is Not a Number, so it could be apple, periwinkle, or even mercator kilometers in length. We don’t really know, but if you figure it out let us know.
 
 **How do I participate in the run?**  
 You can participate in the “run” by sharing the following on twitter with the hashtag [#NINaNK](https://twitter.com/intent/tweet?button_hashtag=NINaNK&ref_src=twsrc%5Etfw):
@@ -41,8 +46,8 @@ You can participate in the “run” by sharing the following on twitter with th
 **How does one train for this run?**  
 We recommend reading [Eloquent Javascript](https://eloquentjavascript.net/), drinking water, breathing air, and stretching. You really are training to have fun, so whatever works best for you.
 
-**Will there be porta-potties, snacks, or gift bags?**  
-There will be no porta-potties, snacks, or gift bags. Heck, there will be no race course, volunteers, start or finish line either. Participation stickers will be available at conferences when a run representative is present. 
+**Will there be porta-potties, snacks, beer, or gift bags?**  
+Yes. 
 
 **When is this happening?**  
 It depends on where you live, the angle of the sun and stars, what your twitter situation is, and how much fun you want to have. Feel free to take a photo of your workstation whenever you like and share it on twitter for all to see with the hashtag [#NINaNK](https://twitter.com/intent/tweet?button_hashtag=NINaNK&ref_src=twsrc%5Etfw).
